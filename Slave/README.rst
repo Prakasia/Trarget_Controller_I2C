@@ -1,5 +1,3 @@
---BME680
+--Target Code
 
-* connecting SDO - GND slave address 0x76
-* connecting SDO-VDDIO slave address 0x77
-* 
+* Target code for transmitting data to the Controller on read request

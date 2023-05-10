@@ -1,5 +1,3 @@
---I2C
+--Controller Code
 
-* Communicate two rpi_pico using i2c
-* 
-* 
+* Controller sample code for reading data from the Target pico
